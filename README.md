@@ -9,7 +9,7 @@ This is my way of giving something back: sharing my own ideas and code, and leav
 - **osc2laser** — Live + timeline lasershow control via OSC. [Code](https://github.com/oliverbyte/osc2laser)
 - **msvg2ild** — Convert SVG sequences into animated ILD laser frames. [Code](https://github.com/oliverbyte/msvg2ild)
 - **LaserPong** — Pong on a laser projector (Helios DAC). [Code](https://github.com/oliverbyte/laserpong)
-### 🎆 Lasershows
+### 🎆 Lasershows (a.k.a. "goodtimes | laser crew")
 - **Heart of courage** by Thomas Bergersen & Two Steps from Hell + **Aquarius** by Xan Griffin. [Video](https://www.instagram.com/p/DNq7gCfUGdb/) 
 - **Angels** by Robbie Williams. [Video](https://www.youtube.com/watch?v=CGbBkp0Dk9E)
 - **Choosing Dauntless** by Junkie XL. [Video](https://www.youtube.com/watch?v=ARCyaRr-Fug)
