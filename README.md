@@ -1,6 +1,9 @@
-# About Oliver Byte
+# About me
 I’m deeply grateful for the countless open-source technologies I rely on — privately and professionally.  
 This is my way of giving something back: sharing my own ideas and code, and leaving the world a tiny bit better than I found it.
+
+Cheers,
+Oliver
 
 # Projects
 ## 🎛️ Showlaser
