@@ -21,6 +21,7 @@ Oliver
 - **Whatever you want** by StatusQuo as a birthday present. [Video](https://www.youtube.com/watch?v=_5FiKHApgyw)
 
 ## 🎤 Showcontrol
+- **LightGroove** — DMX controller with a simple web UI. [Code](https://github.com/oliverbyte/lightgroove)
 - **CueLab FREE** — Play a pre-programmed list of MIDI notes for shows. [Code](https://github.com/oliverbyte/cuelab-free)
 
 ## 🎧 Music production
