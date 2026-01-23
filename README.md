@@ -30,3 +30,6 @@ Oliver
 
 ## ⛑️ Health
 - **Appnehmen** — Minimal local-first weight loss tracker + craving helper. [Info](https://oliverbyte.github.io/appnehmen/info/) · [Code](https://github.com/oliverbyte/appnehmen)
+
+## 👷🏼‍♂️ 3D printing models
+- **MakerWorld** - Collection of my 3D models published at MakerWorld (BambuLab). [Info](https://makerworld.com/de/@oliver_byte/upload)
