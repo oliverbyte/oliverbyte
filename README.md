@@ -26,7 +26,7 @@ Oliver
 
 ## 🎧 Music production
 ### Orchestra arrangements
-- **Don't stop believing** (Journey) - Sinfonic Rock Night Nordhorn 2011 [Audio](https://youtu.be/MNAPFlV8MbI)
+- **Don't stop believing** (Journey) - [Sinfonic Rock Night Nordhorn 2011](https://sinfonicrocknight.de/archiv/2011/) [Audio](https://youtu.be/MNAPFlV8MbI)
 - **Twilight** (Electric Light Orchestra) - [Sinfonic Rock Night Nordhorn 2013](https://sinfonicrocknight.de/archiv/2011/) [Audio](https://youtu.be/4_xEvQHQOM8)
 - **Whatever** (Oasis) - Sinfonic Rock Night Steinfurt 2012 [Audio](https://youtu.be/cekKog3YWKc)
 ### ꩜ Strudel loops
