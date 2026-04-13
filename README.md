@@ -25,7 +25,7 @@ Oliver
 - **CueLab FREE** — Play a pre-programmed list of MIDI notes for shows. [Code](https://github.com/oliverbyte/cuelab-free)
 
 ## 🎧 Music production
-### 🎻 Orchestra arrangements
+### 🎻 Arrangements for symphonic orchestra, choir and rock band 
 - **Don't stop believing** (Journey) - [Sinfonic Rock Night Nordhorn 2011](https://sinfonicrocknight.de/archiv/2011/) · [Audio](https://youtu.be/MNAPFlV8MbI)
 - **Twilight** (Electric Light Orchestra) - [Sinfonic Rock Night Nordhorn 2013](https://sinfonicrocknight.de/archiv/2011/) · [Audio](https://youtu.be/3zu4zGE2ats)
 - **Whatever** (Oasis) - Sinfonic Rock Night Steinfurt 2012 [Audio](https://youtu.be/cekKog3YWKc)
