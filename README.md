@@ -1,5 +1,6 @@
 # About me
 *Do what you ❤️, change the 🌍.*
+
 I’m deeply grateful for music and for the countless open‑source technologies in this wonderful world.
 This is my way of giving something back: sharing my own projects, code, and ideas — and, hopefully, leaving the world just a tiny bit better than I found it.
 
