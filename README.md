@@ -1,6 +1,7 @@
 # About me
-I’m deeply grateful for the countless open-source technologies I rely on — privately and professionally.  
-This is my way of giving something back: sharing my own ideas and code, and leaving the world a tiny bit better than I found it.
+*Do what you ❤️, change the 🌍.*
+I’m deeply grateful for music and for the countless open‑source technologies in this wonderful world.
+This is my way of giving something back: sharing my own projects, code, and ideas — and, hopefully, leaving the world just a tiny bit better than I found it.
 
 Cheers,
 Oliver
