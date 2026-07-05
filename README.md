@@ -10,6 +10,7 @@ Oliver
 # Projects
 ## 🎛️ Showlaser
 ### 🧰 Tools
+- **BeamCommander3** — A modern approach to a live lasershow control software - with web UI and multi laser DAC support. [Info](https://oliverbyte.github.io/beamcommander3) · [Code](https://github.com/oliverbyte/beamcommander3)
 - **BeamCommander** — Laser show control with 3D preview & hands-on performance control. [Info](https://oliverbyte.github.io/beamcommander) · [Code](https://github.com/oliverbyte/beamcommander) · [Demo](https://www.instagram.com/p/DOEQKSbCGAL/)
 - **osc2laser** — Live + timeline lasershow control via OSC. [Code](https://github.com/oliverbyte/osc2laser)
 - **msvg2ild** — Convert SVG sequences into animated ILD laser frames. [Code](https://github.com/oliverbyte/msvg2ild)
